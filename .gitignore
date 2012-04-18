@@ -1,0 +1,14 @@
+.bundle
+db/*.sqlite3*
+log/*.log
+tmp/**/*
+*.log
+/tmp/
+doc/
+*.swp
+*~
+.project
+.DS_Store
+/tmp/*
+doc/api
+doc/app
